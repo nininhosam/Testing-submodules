@@ -1,0 +1,6 @@
+[submodule "client_submodule"]
+	path = client_submodule
+	url = https://github.com/nininhosam/client_submodule
+[submodule "server_submodule"]
+	path = server_submodule
+	url = https://github.com/nininhosam/server_submodule
