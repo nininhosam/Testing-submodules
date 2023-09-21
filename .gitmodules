@@ -4,3 +4,6 @@
 [submodule "server_submodule"]
 	path = server_submodule
 	url = https://github.com/nininhosam/server_submodule
+[submodule "database_submodule"]
+	path = database_submodule
+	url = https://github.com/nininhosam/database_submodule
